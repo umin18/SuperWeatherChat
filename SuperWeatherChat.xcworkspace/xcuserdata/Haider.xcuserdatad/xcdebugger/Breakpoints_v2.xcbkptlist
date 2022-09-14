@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91CBF73E-F682-4916-A045-D6D138EAD6A5"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C97E33A9-4FF3-409E-877D-947FD58F7B60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EarlyWarningSystem/ViewControllers/SignUpControllerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "signUpBtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C97E33A9-4FF3-409E-877D-947FD58F7B60 - 121883342c74fb7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EarlyWarningSystem.SignUpControllerViewController.signUpBtn(__C.UIButton) -&gt; ()"
+                  moduleName = "EarlyWarningSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Haider/Downloads/EarlyWarningSystem-master/EarlyWarningSystem/ViewControllers/SignUpControllerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "9577">
+               </Location>
+               <Location
+                  uuid = "C97E33A9-4FF3-409E-877D-947FD58F7B60 - b700ca192fd49aeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in EarlyWarningSystem.SignUpControllerViewController.signUpBtn(__C.UIButton) -&gt; ()"
+                  moduleName = "EarlyWarningSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Haider/Downloads/EarlyWarningSystem-master/EarlyWarningSystem/ViewControllers/SignUpControllerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A992306-3304-45F6-A77A-7F74C67FD6AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EarlyWarningSystem/Services/FireBaseServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "signUp(user:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A992306-3304-45F6-A77A-7F74C67FD6AC - 54e06c5bf58862d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in EarlyWarningSystem.FireBaseServices.signUp(user: EarlyWarningSystem.UserModel, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "EarlyWarningSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Haider/Downloads/EarlyWarningSystem-master/EarlyWarningSystem/Services/FireBaseServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1229">
+               </Location>
+               <Location
+                  uuid = "9A992306-3304-45F6-A77A-7F74C67FD6AC - 867b911998a4f933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;, __C.FIRDatabaseReference) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in EarlyWarningSystem.FireBaseServices.signUp(user: EarlyWarningSystem.UserModel, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "EarlyWarningSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Haider/Downloads/EarlyWarningSystem-master/EarlyWarningSystem/Services/FireBaseServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

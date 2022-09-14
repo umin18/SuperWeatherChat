@@ -1,0 +1,6 @@
+framework module SamuraiTransition {
+  umbrella header "SamuraiTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}

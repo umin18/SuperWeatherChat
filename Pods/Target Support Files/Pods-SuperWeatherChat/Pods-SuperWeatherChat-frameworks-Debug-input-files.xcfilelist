@@ -1,0 +1,17 @@
+${PODS_ROOT}/Target Support Files/Pods-SuperWeatherChat/Pods-SuperWeatherChat-frameworks.sh
+${BUILT_PRODUCTS_DIR}/TWMessageBarManager-framework/TWMessageBarManager.framework
+${BUILT_PRODUCTS_DIR}/AppAuth/AppAuth.framework
+${BUILT_PRODUCTS_DIR}/DLRadioButton/DLRadioButton.framework
+${BUILT_PRODUCTS_DIR}/GTMAppAuth/GTMAppAuth.framework
+${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework
+${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/Loki/Loki.framework
+${BUILT_PRODUCTS_DIR}/Protobuf/protobuf.framework
+${BUILT_PRODUCTS_DIR}/RAMAnimatedTabBarController/RAMAnimatedTabBarController.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/SamuraiTransition/SamuraiTransition.framework
+${BUILT_PRODUCTS_DIR}/TransitionButton/TransitionButton.framework
+${BUILT_PRODUCTS_DIR}/ViewAnimator/ViewAnimator.framework
+${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework
+${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework
